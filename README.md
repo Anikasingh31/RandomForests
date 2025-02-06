@@ -1,4 +1,4 @@
-# RandomForests
+# Random Forests
 
 Introduction to Random Forests
 Random Forests is an ensemble learning method for classification, regression, and other tasks that operates by constructing a multitude of decision trees during training. It outputs the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.
